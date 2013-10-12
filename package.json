@@ -1,0 +1,1 @@
+{"license": "", "description": "Remakes the firefox addon for Waa.ai", "contributors": [], "author": "Shadey", "url": "", "dependencies": ["api-utils", "addon-kit"], "version": "initial.rev5", "lib": "lib", "fullName": "Unoffical Waa.ai Shortener", "main": "main", "id": "jid0-o5JlpzE18jOUjp7eAUOCCKZFZFQ", "name": "unoffical-waaai-shortener"}
