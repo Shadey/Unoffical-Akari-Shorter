@@ -3,10 +3,7 @@ Unoffical-Akari-Shorter
 
 Replaces the missing Firefox extensions for waa.ai
 
-Install
+Download/Install
 =======
-[Click here](http://waa.ai/44cI)
+[You can find it here](https://github.com/blog/1547-release-your-software)
 
-Then Open with Firefox
-
-Done c:
