@@ -69,16 +69,3 @@ exports.main = ->
 					clipboard.set(sh)
 			}).post()
 	})
-													
-
-			
-
-
-
-
-
-
-
-
-
-
