@@ -12,9 +12,9 @@ build =  ->
 	coffee = spawn 'coffee' , ["-c","-o","lib","src"]
 	cfx = spawn "cfx" , ["xpi"]
 	coffee.stderr.on 'data', (data) ->
-    	process.stderr.write data.toString()
-    coffee.stdout.on 'data', (data) ->
-    	print data.toString()
+    		process.stderr.write data.toString()
+    	coffee.stdout.on 'data', (data) ->
+    		print data.toString()
 watch = ->
 	coffee = spawn 'coffee', ['-w', '-c', '-o', 'lib', 'src']
 	coffee.stderr.on 'data', (data) ->
