@@ -1,10 +1,5 @@
 fs = require 'fs'
 
-{ print } = require 'sys'
-{ spawn } = require 'child_process'
-
-fs = require 'fs'
-
 {print} = require 'sys'
 {spawn} = require 'child_process'
 
